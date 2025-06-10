@@ -1,0 +1,6 @@
+Collecting numpy
+  Downloading numpy-2.2.5-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Downloading numpy-2.2.5-cp312-cp312-win_amd64.whl (12.6 MB)
+   ---------------------------------------- 12.6/12.6 MB 3.9 MB/s eta 0:00:00
+Installing collected packages: numpy
+Successfully installed numpy-2.2.5
